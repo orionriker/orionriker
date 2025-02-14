@@ -94,9 +94,8 @@ I'm a **driven and passionate 15-year-old full-stack developer** with a strong d
   [![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-1E5397?logo=stackexchange&logoColor=fff)](https://stackexchange.com/users/36934927/orionriker)
   [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27994192/orionriker)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
-  [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#)
-  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
+  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/orionriker)
+  [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/orionriker.com)
 
 #### **Web**:  
   [![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)](#)
