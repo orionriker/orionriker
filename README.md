@@ -5,7 +5,7 @@
 # 👋 Hello There! I’m Orion C. Riker
 ## Full-Stack Developer | UI/UX Designer | AI Developer
 
-I'm a **driven and passionate 15-year-old full-stack developer** with a strong desire to learn, grow, and continuously improve my skills. I have experience working with a variety of **programming languages**, **frameworks**, and **technologies**. I thrive on building innovative and user-friendly applications while constantly exploring new tools and frameworks to stay ahead in the ever-evolving tech landscape.
+I'm a **driven and passionate 16-year-old full-stack developer** with a strong desire to learn, grow, and continuously improve my skills. I have experience working with a variety of **programming languages**, **frameworks**, and **technologies**. I thrive on building innovative and user-friendly applications while constantly exploring new tools and frameworks to stay ahead in the ever-evolving tech landscape.
 
 <br>
 
