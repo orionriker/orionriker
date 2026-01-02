@@ -5,7 +5,7 @@
 # 👋 Hello There! I’m Orion C. Riker
 ## Full-Stack Developer | UI/UX Designer
 
-I'm a 16-year-old full-stack developer based in Bengaluru with 6 years of experience. I've worked across the entire web stack—building REST APIs in Python and PHP, crafting responsive frontends with React and TypeScript, managing MySQL databases. I've also deployed production-ready applications using Docker (like my portfolio website) with good security standards. I'm always exploring emerging technologies and staying current with industry trends. I love going out of my comfort zone and experiment with new tools and frameworks to sharpen my skills. 
+A 16-year-old full-stack developer based in Bengaluru with 6 years of experience. I've worked across the entire web stack—building REST APIs in Python and PHP, crafting responsive frontends with React and TypeScript, managing MySQL databases. I've also deployed production-ready applications using Docker (like my portfolio website) with good security standards. I'm always exploring emerging technologies and staying current with industry trends. I love going out of my comfort zone and experiment with new tools and frameworks to sharpen my skills. 
 
 <br>
 
