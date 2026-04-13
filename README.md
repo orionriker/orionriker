@@ -11,7 +11,7 @@ I also run a homelab: Proxmox hosting TrueNAS across 16TB of total storage with 
 
 I run Arch Linux. Everything I rely on is open source. Also love video games! Video games are why I started coding — Counter-Strike, Minecraft, Hytale are some which I play or played.
 
-This portfolio runs on a 2-node Kubernetes cluster with Caddy as the reverse proxy — deployed via FluxCD and custom CI/CD scripts. I'm a strong advocate for DevOps practices; GitOps and automation are how I keep production sane. 
+My portfolio website runs on a 2-node Kubernetes cluster with Caddy as the reverse proxy — deployed via FluxCD and custom CI/CD scripts. I'm a strong advocate for DevOps practices; GitOps and automation are how I keep production sane. 
 
 <br>
 
