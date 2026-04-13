@@ -5,7 +5,13 @@
 # 👋 Hello There! I’m Orion C. Riker
 ## Full-Stack Developer | UI/UX Designer
 
-A 16-year-old full-stack developer based in Bengaluru with 6 years of experience. I've worked across the entire web stack—building REST APIs in Python and PHP, crafting responsive frontends with React and TypeScript, managing MySQL databases. I've also deployed production-ready applications using Docker (like my portfolio website) with good security standards. I'm always exploring emerging technologies and staying current with industry trends. I love going out of my comfort zone and experiment with new tools and frameworks to sharpen my skills. 
+I'm a 16-year-old full-stack developer based in Bengaluru with 6 years of experience. I build Websites, APIs, Android apps, .NET software, AI products, and whatever else needs building. I design in Figma and implement what I design — no handoff. Game development is also something I do: I work across Unity, Unreal, and Godot, mostly all personal projects. I also work with electronics — soldering, circuit design, and connecting sensors directly to mains AC and integrate them into Home Assistant. And 3D printing: mostly functional parts I've designed to make daily life easier.
+
+I also run a homelab: Proxmox hosting TrueNAS across 16TB of total storage with ZFS RAIDZ2. Day-to-day it runs Immich, Bitwarden, GitLab, Grafana, Pi-hole, Technitium DNS, and Tailscale so I can reach everything remotely.
+
+I run Arch Linux. Everything I rely on is open source. Also love video games! Video games are why I started coding — Counter-Strike, Minecraft, Hytale are some which I play or played.
+
+This portfolio runs on a 2-node Kubernetes cluster with Caddy as the reverse proxy — deployed via FluxCD and custom CI/CD scripts. I'm a strong advocate for DevOps practices; GitOps and automation are how I keep production sane. 
 
 <br>
 
