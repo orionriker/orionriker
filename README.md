@@ -5,13 +5,15 @@
 # 👋 Hello There! I’m Orion C. Riker
 ## Full-Stack Developer | UI/UX Designer
 
-I'm a 16-year-old full-stack developer based in Bengaluru with 6 years of experience. I build Websites, APIs, Android apps, .NET software, AI products, and whatever else needs building. I design in Figma and implement what I design — no handoff. Game development is also something I do: I work across Unity, Unreal, and Godot, mostly all personal projects. I also work with electronics — soldering, circuit design, and connecting sensors directly to mains AC and integrate them into Home Assistant. And 3D printing: mostly functional parts I've designed to make daily life easier.
+I'm a 16-year-old full-stack developer, aspiring Computer Scientist, and activist based in Bengaluru with 6 years of experience. I build Websites, APIs, Android apps, .NET software, AI products, and whatever else needs building. I design in Figma and implement what I design. Game development is also something I do: I work across Unity, Unreal, and Godot, mostly all personal projects. I also work with electronics, soldering, circuit design, and connecting sensors directly to mains AC and integrate them into Home Assistant. And 3D printing: mostly functional parts I've designed to make daily life easier.
 
-I also run a homelab: Proxmox hosting TrueNAS across 16TB of total storage with ZFS RAIDZ2. Day-to-day it runs Immich, Bitwarden, GitLab, Grafana, Pi-hole, Technitium DNS, and Tailscale so I can reach everything remotely.
+I also run a homelab: Proxmox hosting TrueNAS across 16TB of total storage with ZFS RAIDZ2. Some of the services it runs are: Immich, Bitwarden, GitLab, Grafana, Pi-hole, Technitium DNS. And I use Tailscale so I can reach everything remotely.
 
-I run Arch Linux. Everything I rely on is open source. Also love video games! Video games are why I started coding — Counter-Strike, Minecraft, Hytale are some which I play or played.
+Beyond tech, I am deeply focused on Global Governance, Current Affairs, Rights, and Law. As a 'Citizen of Earth', I view the world as a single integrated system without cultural bias. I am currently conceptualizing the United Federation of Earth, a sovereign world government designed to eventually replace nation-states. I know getting this done requires politics, but my approach is strictly technical. The current systems running the world are broken, and I treat fixing them as an engineering problem, focused on the underlying logic and architecture required to build a better one.
 
-My portfolio website runs on a 2-node Kubernetes cluster with Caddy as the reverse proxy — deployed via FluxCD and custom CI/CD scripts. I'm a strong advocate for DevOps practices; GitOps and automation are how I keep production sane. 
+I use Arch Linux as my OS. Everything I rely on is open source. Also love to play video games! Video games are what got me into the rabbit hole of coding: Counter-Strike, Minecraft, Hytale are some which I play or played.
+
+My portfolio website runs on a 2-node Kubernetes cluster with Caddy as the reverse proxy, deployed using FluxCD and custom CI/CD scripts. I'm a strong advocate for DevOps practices. 
 
 <br>
 
