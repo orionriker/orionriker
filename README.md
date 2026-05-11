@@ -96,7 +96,7 @@ My portfolio website runs on a 2-node Kubernetes cluster with Caddy as the rever
 
 #### **Socials**:
   [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:orionriker@proton.me)
-  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/orionriker/)
+  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/rikerorion/)
   [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/orionriker/)
   [![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-1E5397?logo=stackexchange&logoColor=fff)](https://stackexchange.com/users/36934927/orionriker)
