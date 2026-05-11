@@ -142,7 +142,6 @@ My portfolio website runs on a 2-node Kubernetes cluster with Caddy as the rever
 <br>
 
 ## 📖 What I'm Currently Learning:
-- **TensorFlow**
 - **Large Language Models (LLMs)**
 - **Machine Learning**
 - **Game Development** (Godot)
