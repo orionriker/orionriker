@@ -9,11 +9,11 @@ I'm a 16-year-old full-stack developer, aspiring Computer Scientist, and activis
 
 I also run a homelab: Proxmox hosting TrueNAS across 16TB of total storage with ZFS RAIDZ2. Some of the services it runs are: Immich, Bitwarden, GitLab, Grafana, Pi-hole, Technitium DNS. And I use Tailscale so I can reach everything remotely.
 
-Beyond tech, I am deeply focused on Global Governance, Current Affairs, Rights, and Law. As a 'Citizen of Earth', I view the world as a single integrated system without cultural bias. I am currently conceptualizing the United Federation of Earth, a sovereign world government designed to eventually replace nation-states. I know getting this done requires politics, but my approach is strictly technical. The current systems running the world are broken, and I treat fixing them as an engineering problem, focused on the underlying logic and architecture required to build a better one.
+Outside of tech, I am focused on Global Governance, Current Affairs, Rights, and Law. I think of myself as a citizen of Earth before anything else. And from that vantage point, the nation-state system looks like what it is: a design that was never built for the problems we actually face today. The existing system is broken at the design level. So I'm trying to fix the design. So I am building a replacement: the United Federation of Earth, a world government designed to eventually replace nation-states. Some notable things it has a quadricameral (four-chamber) legislature, branches that can actually check and remove each other, anti-corruption written into the architecture rather than bolted on as an afterthought, and things most governments still treat as negotiable: free healthcare, free public transport all guaranteed in the constitution itself.
 
-I use Arch Linux as my OS. Everything I rely on is open source. Also love to play video games! Video games are what got me into the rabbit hole of coding: Counter-Strike, Minecraft, Hytale are some which I play or played.
+I use Arch Linux as my OS. Everything I rely on is open source. Also love to play video games, they are what got me into the rabbit hole of coding: Counter-Strike, Minecraft, Hytale are some which I play or played.
 
-My portfolio website runs on a 2-node Kubernetes cluster with Caddy as the reverse proxy, deployed using FluxCD and custom CI/CD scripts. I'm a strong advocate for DevOps practices. 
+My portfolio website runs on a 2-node Kubernetes cluster with Caddy as the reverse proxy, deployed using FluxCD and custom CI/CD scripts. I'm a strong advocate for DevOps practices.
 
 <br>
 
