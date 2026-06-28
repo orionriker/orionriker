@@ -158,17 +158,80 @@ My portfolio website runs on a 2-node Kubernetes cluster with Caddy as the rever
 <br>
 
 ## ⭐ Quotes I like
-**_“Knowledge is power”_**  
-_— Sir Francis Bacon_  
 
-**_“Everybody should learn to program a computer… because it teaches you how to think.”_**  
-_— Steve Jobs_  
+### 🚀 Star Trek
 
-**_“Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”_**  
-_— Linus Torvalds_  
+> ***"It is possible to commit no mistakes and still lose. That is not a weakness. That is life"***  
+> _— Jean-Luc Picard (Sir Patrick Hewes Stewart)_  
 
-**_“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”_**  
-_— Antoine de Saint — Exupery_  
+> ***"Things are only impossible until they are not."***  
+> _— Jean-Luc Picard (Sir Patrick Hewes Stewart)_
 
-**_“Simplicity is the soul of efficiency.”_**  
-_— Austin Freeman_
+> ***"Seize the time... Live now! Make now always the most precious time. Now will never come again."***  
+> _— Jean-Luc Picard (Sir Patrick Hewes Stewart)_
+
+> ***"The first duty of every Starfleet officer is to the truth, whether it's scientific truth, historical truth, or personal truth."***  
+> _— Jean-Luc Picard (Sir Patrick Hewes Stewart)_
+
+> ***"Logic is the beginning of wisdom, not the end."***  
+> _— Spock (Leonard Simon Nimoy)_
+
+> ***"Infinite Diversity in Infinite Combinations."***  
+> _— Spock (Leonard Simon Nimoy)_
+
+### 💻 Programming
+
+> ***"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."***  
+> _— Linus Benedict Torvalds_
+
+> ***"Theory and practice sometimes clash. And when that happens, theory loses. Every single time."***  
+> _— Linus Benedict Torvalds_
+
+> ***"Everybody should learn to program a computer… because it teaches you how to think."***  
+> _— Steven "Steve" Paul Jobs_  
+
+> ***"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."***  
+> _— Martin Albert Fowler_
+
+> ***"Thinking doesn't guarantee that you won't make mistakes. But not thinking guarantees that you will."***  
+> _— Leslie Barry Lamport_
+
+> ***"Simplicity is prerequisite for reliability."***  
+> _— Edsger Wybe Dijkstra_
+
+> ***"If debugging is the process of removing software bugs, then programming must be the process of putting them in."***  
+> _— Edsger Wybe Dijkstra_
+
+> ***"Controlling complexity is the essence of computer programming."***  
+> _— Brian Wilson Kernighan_
+
+### 🧠 Science
+
+> ***"Somewhere, something incredible is waiting to be known."***  
+> _— Carl Edward Sagan_
+
+> ***"We are a way for the cosmos to know itself."***  
+> _— Carl Edward Sagan_
+
+> ***"The good thing about science is that it's true whether or not you believe in it."***  
+> _— Neil deGrasse Tyson_
+
+> ***"The first principle is that you must not fool yourself, and you are the easiest person to fool."***  
+> _— Richard Phillips Feynman_
+
+> ***"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."***  
+> _— Maria "Marie" Salomea Skłodowska-Curie_
+
+### 📚 Philosophy
+
+> ***"Knowledge is power."***  
+> _— Sir Francis Bacon_
+
+> ***"The unexamined life is not worth living."***  
+> _— Socrates_
+
+> ***"We are what we repeatedly do. Excellence, then, is not an act but a habit."***  
+> _— Commonly attributed to Aristotle, though the exact wording comes from William "Will" James Durant summarizing Aristotle's ideas._
+
+> ***"The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."***  
+> _— George Bernard Shaw_
