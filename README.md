@@ -3,7 +3,7 @@
 <br>
 
 # 👋 Hello There! I’m Orion C. Riker
-## Full-Stack Developer | UI/UX Designer
+## Full Stack Developer. Activist. UI/UX Designer. Tech enthusiast.
 
 I'm a 16-year-old full-stack developer, aspiring Computer Scientist, and activist based in Bengaluru with 6 years of experience. I build Websites, APIs, Android apps, .NET software, AI products, and whatever else needs building. I design in Figma and implement what I design. Game development is also something I do: I work across Unity, Unreal, and Godot, mostly all personal projects. I also work with electronics, soldering, circuit design, and connecting sensors directly to mains AC and integrate them into Home Assistant. And 3D printing: mostly functional parts I've designed to make daily life easier.
 
