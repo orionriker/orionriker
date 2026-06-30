@@ -133,21 +133,6 @@ My portfolio website runs on a 2-node Kubernetes cluster with Caddy as the rever
 
 <br>
 
-## 🌐 What I Do:
-- **Build full-stack web applications** using modern JavaScript frameworks like **Astro**, **React.js**, and **Node.js**.
-- **Explore emerging technologies** and dive into new frameworks to stay ahead of industry trends.
-- **Develop user-centric solutions** by applying my creativity and problem-solving skills to deliver intuitive and efficient applications.
-- **Collaborate** on projects that challenge my skills and allow me to grow as a developer.
-
-<br>
-
-## 📖 What I'm Currently Learning:
-- **Large Language Models (LLMs)**
-- **Machine Learning**
-- **Game Development** (Godot)
-
-<br>
-
 ## 🏆 Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=orionriker&show_icons=true&hide_border=true&theme=holi" alt="orionriker's GitHub stats"><br>
